@@ -43,6 +43,7 @@
   list-style: none;
   float: right;
 
+
 }
 
 .authors ul {
@@ -82,8 +83,13 @@
 
 }
 
+.image-caption a {
+  text-decoration: none;
+}
+
 ul .authors {
   padding:0px;
+
 }
 
 
